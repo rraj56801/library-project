@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LibCard</string>
+    <string name="error_message">There is no Internet connection\nTry:
+        Checking the network connection. ERR_INTERNET_DISCONNECTED</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="use_password">Use password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password_description">Enter your store password to continue</string>
+    <string name="item_login">Log In</string>
+    <string name="login_not_invalidated">Log In not invalidated</string>
+    <string name="login_button_not_invalidated_description">
+        You can proceed to Log In with this button \n even if a new fingerprint is enrolled
+    </string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="item_title">LibCard Log In Authentication</string>
+    <string name="item_subtitle">Press  Log In To Continue</string>
+    <string name="item_description">Your Finger Print is required to proceed...</string>
+    <string name="login_done">Log In successful</string>
+    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_title">Use fingerprint to authenticate</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <string name="description_bugdroid_icon">Android bugdroid image</string>
+    <string name="description_fingerprint_icon">Fingerprint icon</string>
+
+</resources>
